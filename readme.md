@@ -11,10 +11,10 @@
 
 <img src="https://images.unsplash.com/photo-1608178398319-48f814d0750c?q=80&w=1779&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align= "left" alt="space" width="200" height="100" />
 
-<img src="https://images.unsplash.com/photo-1538370965046-79c0d6907d47?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align= "right" alt="space2" width="500" height="100" />
+<img src="https://images.unsplash.com/photo-1538370965046-79c0d6907d47?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align= "right" alt="space2" width="400" height="100" />
 
-<img scr="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" align= "center" alt="gif" />
 
+<img scr=" ![Gif art](https://github.com/Nikole-Desira/myprofile/assets/159052574/61a828cf-1046-4dde-ba45-dec239b1fa1e) " align= "center" width= "300" height= "100" />
 
 
 
