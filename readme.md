@@ -13,8 +13,7 @@
 
 <img src="https://images.unsplash.com/photo-1538370965046-79c0d6907d47?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align= "right" alt="space2" width="400" height="100" />
 
-
-<img scr=" ![Gif art](https://github.com/Nikole-Desira/myprofile/assets/159052574/61a828cf-1046-4dde-ba45-dec239b1fa1e) " align= "center" width= "300" height= "100" />
+![](gif-art.gif)
 
 
 
